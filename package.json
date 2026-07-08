@@ -1,0 +1,12 @@
+{
+  "name": "blockout-mcp",
+  "version": "1.0.0",
+  "description": "MCP stdio bridge for Blockout — drive the Blockout previs desktop app (stage scenes, choreograph cast & camera, export motion-reference packages) from Hermes, Claude Code, Codex, or any MCP client.",
+  "type": "module",
+  "bin": { "blockout-mcp": "./blockout-mcp.mjs" },
+  "engines": { "node": ">=18" },
+  "author": "Sam Wasserman (https://wassermanproductions.com)",
+  "license": "Apache-2.0",
+  "repository": { "type": "git", "url": "https://github.com/wassermanproductions/blockout-mcp.git" },
+  "keywords": ["mcp", "model-context-protocol", "previs", "filmmaking", "blockout", "hermes"]
+}
