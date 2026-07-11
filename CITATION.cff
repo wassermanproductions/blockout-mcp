@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use blockout-mcp in your work, please cite it and credit Sam Wasserman (wassermanproductions.com), per the NOTICE file."
+title: "blockout-mcp"
+type: software
+authors:
+  - family-names: "Wasserman"
+    given-names: "Sam"
+    website: "https://wassermanproductions.com"
+version: "1.0.0"
+date-released: "2026-07-08"
+license: "Apache-2.0"
+repository-code: "https://github.com/wassermanproductions/blockout-mcp"
+keywords: [mcp, model-context-protocol, previs, filmmaking, blockout]
